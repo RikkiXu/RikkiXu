@@ -5,9 +5,9 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently study in ShanghaiTech University.
+- 🔭 I’m currently studying in ShanghaiTech University.
 - 🌱 I’m currently learning Semi-supervised and Self-supervised
-- 📫 How to reach me: xurj216@shu.edu.com
+- 📫 How to reach me: xurj216@shu.edu.cn
 
 <!--
 - 👯 I’m looking to collaborate on ...
